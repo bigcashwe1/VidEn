@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:40
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://firebasestorage.googleapis.com/v0/b/class-cr-c2bee.appspot.com/o/Encrypted_Key_m3u8%2Fenc.key?alt=media&token=3c4211a3-0b31-4ebb-8e50-ffd2a9b338ec",IV=0x00000000000000000000000000000000
+#EXTINF:40.000000,
+https://github.com/bigcashwe1/VidEn/releases/download/c1001/v1003_0.ve
+#EXTINF:40.000000,
+https://github.com/bigcashwe1/VidEn/releases/download/c1001/v1003_1.ve
+#EXTINF:17.400000,
+https://github.com/bigcashwe1/VidEn/releases/download/c1001/v1003_2.ve
+#EXT-X-ENDLIST
